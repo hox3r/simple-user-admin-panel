@@ -52,7 +52,7 @@ If you need assistance or a sample database, feel free to contact me via GitHub 
 Clone the repository and run the app locally:
 
 ```bash
-git clone https://github.com/Phix0n-z3r/simple-user-admin-panel.git
+git clone https://github.com/hox3r/simple-user-admin-panel.git
 cd simple-user-admin-panel
 
 # Restore NuGet packages
